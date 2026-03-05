@@ -148,31 +148,6 @@ Consequently, amplitude damping introduces an intrinsic exponential degradation 
 
 ---
 
-# Repository Structure
-
-grover-hamming-weight-study
-
-│
-├── circuits/
-│   └── grover_circuits.py
-│
-├── experiments/
-│   ├── hamming_weight_scaling.py
-│   ├── encoding_experiments.py
-│   └── tomography_analysis.py
-│
-├── plots/
-│   └── figures_from_paper
-│
-├── reports/
-│   ├── grover-problem-explanation.pdf
-│   ├── groover_expanded.pdf
-│   └── Hamming Weight Scaling of Grover’s Algorithm.pdf
-│
-└── README.md
-
----
-
 # Scientific Contributions
 
 1. Empirical identification of a scaling law governing Grover's performance under amplitude damping.
